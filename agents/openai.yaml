@@ -1,0 +1,3 @@
+interface:
+  display_name: "Illustrator Localizer"
+  short_description: "Turn an Illustrator source + target language into a non-destructive localization JSX that preserves exact source text colors."
